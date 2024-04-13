@@ -1,0 +1,151 @@
+
+#inicio {
+background-color: #f9f9f9;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+margin: 10px auto;
+max-width: 98%;
+}
+h2 {
+color: #333;
+font-size: 24px;
+text-align: center;
+}
+p {
+color: #666;
+font-size: 16px;
+line-height: 1.6;
+text-align: justify;
+}
+
+.calculadora {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px auto;
+    max-width: 400px;
+}
+
+h2, h5 {
+    color: #333;
+    text-align: center;
+}
+
+button, label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+label {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Estilos para el feedback */
+#feedback {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#feedback h5 {
+    color: #333;
+}
+
+#feedback-list {
+    list-style: none;
+    padding: 0;
+}
+
+#feedback-list li {
+    margin-bottom: 5px;
+}
+
+#tipo-alimento, #cantidad, button {
+    margin-bottom: 10px;
+}
+
+.error {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px auto;
+    max-width: 98%;
+}
+
+#sobre-mi {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px auto;
+    max-width: 98%;
+}
+#video-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#controls {
+    text-align: center;
+}
+
+button {
+    margin: 5px;
+    font-size: 16px;
+    padding: 5px 10px;
+    width: auto;
+}
+
+#controls button {
+    display: inline; 
+}
+
+.error a {
+    display: block;
+    margin-top: 10px;
+    color: #D33F49;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px auto;
+    max-width: 98%;
+}
+
